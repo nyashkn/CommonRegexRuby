@@ -44,6 +44,8 @@ Possible instance and class methods:
 * `get_percentages([text])` (matches percentages between 0.00% and 100.00%)
 * `get_credit_cards([text])`
 * `get_addresses([text])`
+* `get_money_kes([text])`
+
 
 Examples
 ========
